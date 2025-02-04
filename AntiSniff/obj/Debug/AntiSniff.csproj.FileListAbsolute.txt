@@ -1,0 +1,6 @@
+C:\Users\mahdi\source\repos\AntiSniff\AntiSniff\bin\Debug\AntiSniff.dll
+C:\Users\mahdi\source\repos\AntiSniff\AntiSniff\bin\Debug\AntiSniff.pdb
+C:\Users\mahdi\source\repos\AntiSniff\AntiSniff\obj\Debug\AntiSniff.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\AntiSniff\AntiSniff\obj\Debug\AntiSniff.dll
+C:\Users\mahdi\source\repos\AntiSniff\AntiSniff\obj\Debug\AntiSniff.pdb
+C:\Users\mahdi\source\repos\AntiSniff\AntiSniff\obj\Debug\AntiSniff.csproj.AssemblyReference.cache
